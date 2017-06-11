@@ -1,0 +1,30 @@
+/*
+body {
+    font-family: mifuente;
+}
+
+@font-face {
+    font-family: mifuente;
+    src: url(ConvincingPirate.ttf);
+} */
+
+body {
+    background-color: white;
+}
+
+.listas {
+    border: red 2px solid;
+    margin: 20px;
+}
+
+.addNota {
+    text-align: right;
+}
+
+#a {
+    position: relative;
+    top: -15px;
+    left: 500px;
+    width: 70px;
+    height: 100px;
+}
