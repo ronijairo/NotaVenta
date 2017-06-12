@@ -1,3 +1,8 @@
+/**
+ * 
+ *Autor: ING.roni jairo Cache sulu
+    Fecha: 11/06/2017
+ */
 $(document).ready(function() {
     $("#limpiar").click(function() {
         $("#form")[0].reset();
